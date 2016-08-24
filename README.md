@@ -19,11 +19,11 @@ All basic polynomial operations in C. Polynomials are stored as linked lists.
 
 ## Run the code
 	For compiling and linking both test code and library functions in gcc compiler.
-'''sh
+```sh
 	>	gcc test.c polynomial.c -o polynomial -lm
-'''
+```
 	
 	For running the executable
-'''sh
+```sh
 	>	./polynomial
-'''
+```
